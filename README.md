@@ -6,3 +6,6 @@ To run this code you can use https://trinket.io/features/pygame for an online ed
 
 Note - the frames for pygame run differently on differnt computers so you may need to slow or speed up the velocity of the balls or paddles.
 This can be done on lines 73,76 and 79 of the pong template file
+
+
+HELLO WORLD
